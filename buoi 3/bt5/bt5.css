@@ -41,7 +41,7 @@ a {
 .inner-head {
     width: 1398px;
     height: 550px;
-    background-image: url(./img/banner.png);
+    background-image: url(&quot;https://lh3.googleusercontent.com/BvKj8kuRZqLpqPuuZxOl4IeHv5jaD5kT1jhn3P8EMBcmzyoHRAFXsCxNH6ZeHhQG4V1F_AegXIw2cJIBmETy7eHM27IdLQe7FqEgz6NLaXflHiHM4xyh=w2400-rj&quot;);
     display: flex;
     align-items: center;
     flex-direction: column;
